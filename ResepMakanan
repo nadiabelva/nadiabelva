@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resepmakanan</title>
+</head>
+<body>
+    <h3 align="center">Resep Kue Maryam</h3>
+    <img src = "images/WhatsApp Image 2022-08-02 at 13.00.05 (2).jpeg" width = "200" height = "200" align = "right">
+    <h3>bahan-bahan :</h3>
+    <ol>
+        <li>250 gr tepung terigu</li>
+        <li>1 butir telur</li>
+        <li>3 sdm margarin, lelehkan</li>
+        <li>100 ml air hangat</li>
+        <li>2 smd susu bubuk (optional)</li>
+        <li>1/2 sdt garam</li>
+        <li>margarin leleh untuk olesan</li>
+        <li>minyak untuk merendam</li>
+    <h3>Langkah-Langkah</h3>
+    <ol>
+        <li>campur semua bahan roti jadi satu</li>
+        <img src = "images/pertama.jpeg" width = "100" height = "100">
+        <li>Uleni sampai kalis jangan takut adonan lengket, lumuri tangan sesekali dengan tepat, uleni terus sampai adonan kalis</li>
+        <img src = "images/kedua.jpeg" width = "100" height = "100">
+        <li>kalisnya adonan canai tidak sekalis adonan roti, kira-kira seperti ini sudah cukup</li>
+        <img src = "images/ketiga.jpeg" width = "100" height = "100">
+        </ol>
+</body>
+</html>
